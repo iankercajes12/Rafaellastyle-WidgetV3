@@ -5,7 +5,7 @@ function Widget(props) {
   const heading = props.heading;
   const instanceid = props.instanceid;
   const active = props.active;
-  const productid = props.instanceid;
+  const productid = props.productid;
   const clipboardheading = props.clipboardheading;
   const clipboardscript = props.clipboardscript;
   const clipboardscriptnote = props.clipboardscriptnote;
