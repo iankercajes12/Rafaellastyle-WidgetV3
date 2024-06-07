@@ -240,8 +240,8 @@ body {
 .yotpo-display-s .yotpo-main-layout .yotpo-layout-header-wrapper .yotpo-bottom-line .yotpo-star-distribution .yotpo-star-distribution-bar {
     margin: 0 10px;
 }
-.modal-close-btn-wrapper {
-    z-index: 100000000000000000 !important;
+.modal-backdrop.yotpo-review-form-modal .yotpo-modal svg.yotpo-close-icon.btn-close {
+    z-index: 1000000000000 !important;
 }
 .yotpo-review .yotpo-review-center-panel .yotpo-comment.yotpo-review-comment .yotpo-custom-icon.yotpo-comment-avatar {
     width: 100px;
