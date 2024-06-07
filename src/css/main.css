@@ -304,4 +304,6 @@ body {
 }
 .yotpo-display-s .yotpo-filters-container .yotpo-filters-container-inner .yotpo-filters-top-panel button.yotpo-mobile-filters-btn.yotpo-mobile-filters-popup-btn {
     flex-basis: 45%;
+    min-width: 115px;
+    width: 100%;
 }
