@@ -286,3 +286,13 @@ div#newReviewFormModal div#yotpo-basic-modal .modal-close-btn-wrapper {
 .yotpo-display-s .yotpo-header-container .yotpo-header-lower-wrapper .yotpo-bottom-line-question-wrapper-horizontal {
     width: 100% !important;
 }
+.yotpo-review .yotpo-review-center-panel .yotpo-comment.yotpo-review-comment .yotpo-custom-icon.yotpo-comment-avatar {
+    width: 100px;
+    height: 17px;
+    margin-top: 6px;
+    display: none;
+}
+.yotpo-reviews-list .yotpo-comment.yotpo-review-comment {
+    border-left: 3px solid #1a3768;
+    margin-left: 20px;
+}
