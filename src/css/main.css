@@ -296,3 +296,12 @@ body {
     border-left: 3px solid #1a3768;
     margin-left: 20px;
 }
+.yotpo-reviews-main-widget.yotpo-main-widget-layout.yotpo-widget-clear.yotpo-device-mobile.yotpo-display-s div#newReviewFormModal div#yotpo-modal {
+    width: unset;
+}
+.yotpo-display-s div#yotpo-reviews-container .yotpo-no-matching-reviews-container button#yotpo-main-widget-btn {
+    margin: 30px !important;
+}
+.yotpo-display-s .yotpo-filters-container .yotpo-filters-container-inner .yotpo-filters-top-panel button.yotpo-mobile-filters-btn.yotpo-mobile-filters-popup-btn {
+    flex-basis: 45%;
+}
